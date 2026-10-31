@@ -104,6 +104,7 @@
 
 - [claude-code-safety-net](https://github.com/kenryu42/claude-code-safety-net) - Plugin intercepting destructive git/filesystem commands before execution. Semantic argument parsing distinguishes safe from dangerous operations.
 - [Lasso claude-hooks](https://github.com/lasso-security/claude-hooks) - Prompt injection defense hooks: scans files, web fetches, and command output in real-time. Detects 50+ injection patterns in READMEs, HTML comments, and docs.
+- [HOL Guard](https://github.com/hashgraph-online/hol-guard) - Open-source policy checks for supported Claude Code hook events, with local approvals and decision receipts; event coverage and failure behavior vary by integration.
 - [claude-code-hooks-mastery](https://github.com/disler/claude-code-hooks-mastery) - Advanced hook patterns and techniques for Claude Code security automation.
 - [claudekit](https://github.com/carlrannaberg/claudekit) - Toolkit of custom commands, hooks, and security utilities for Claude Code.
 - [claude-code-hooks-multi-agent-observability](https://github.com/disler/claude-code-hooks-multi-agent-observability) - Real-time monitoring for multi-agent Claude Code sessions via hook event tracking.
